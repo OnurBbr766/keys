@@ -1,2 +1,2 @@
 keyler:
-myadminlol=10/04/2025
+myadminlol=*
